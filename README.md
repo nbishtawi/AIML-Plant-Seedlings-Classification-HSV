@@ -34,6 +34,6 @@ This project focuses on classifying different species of plant seedlings using i
 
 ---
 
-## ⚠Notes
+## Notes
 - Dataset provided in processed form (`images.npy`, `Labels.csv`) for reproducibility.  
 - Original raw image dataset was not included due to storage limitations.  
