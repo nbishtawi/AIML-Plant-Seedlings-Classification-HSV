@@ -10,6 +10,15 @@ This project focuses on classifying different species of plant seedlings using i
 - Compare classification accuracy across different algorithms (e.g., Random Forest, SVM, Logistic Regression).  
 
 ---
+## Repository Structure
+```
+├── Plant Seedlings Classification HSV.ipynb # Main notebook with full workflow
+├── Plant Seedlings Classification HSV.html # Exported notebook (HTML)
+├── Labels.csv # CSV file with seedling species labels
+├── images.npy # Preprocessed image dataset (NumPy array)
+```
+
+---
 
 ## Methodology
 1. **Data Preprocessing**
@@ -37,3 +46,5 @@ This project focuses on classifying different species of plant seedlings using i
 ## Notes
 - Dataset provided in processed form (`images.npy`, `Labels.csv`) for reproducibility.  
 - Original raw image dataset was not included due to storage limitations.  
+- Due to size limitations, `images.npy` can be downloaded [here](https://drive.usercontent.google.com/download?id=1K9Vpx5d6hZgd7biCr_1rgt02BfkgwYQt&export=download&authuser=0).  
+
