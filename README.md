@@ -15,7 +15,6 @@ This project focuses on classifying different species of plant seedlings using i
 ├── Plant Seedlings Classification HSV.ipynb # Main notebook with full workflow
 ├── Plant Seedlings Classification HSV.html # Exported notebook (HTML)
 ├── Labels.csv # CSV file with seedling species labels
-├── images.npy # Preprocessed image dataset (NumPy array)
 ```
 
 ---
