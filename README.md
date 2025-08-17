@@ -12,9 +12,11 @@ This project focuses on classifying different species of plant seedlings using i
 ---
 ## Repository Structure
 ```
+Plant-Seedlings-Classification-HSV/
 ├── Plant Seedlings Classification HSV.ipynb # Main notebook with full workflow
 ├── Plant Seedlings Classification HSV.html # Exported notebook (HTML)
 ├── Labels.csv # CSV file with seedling species labels
+└── README.md # Project documentation
 ```
 
 ---
